@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Hey there! Which age group do you belong to?",
+      "options": [
+        "Children (Under 18)",
+        "Young Adults (18-24)",
+        "Young Professionals (25-34)",
+        "Established Professionals (35-44)",
+        "Middle-Aged (45-54)",
+        "Senior (55-64)",
+        "Elderly (65+)"
+      ]
+    },
+    {
+      "question": "What's your educational background? (Pick what fits best!)",
+      "options": [
+        "High school diploma",
+        "Associate's degree",
+        "Bachelor's degree",
+        "Master's degree",
+        "Doctoral degree",
+        "Postdoctoral certificate",
+        "Professional certification",
+        "Others (please specify)"
+      ]
+    },
+    {
+      "question": "Do you feel that internal communications meet your needs?",
+      "options": [
+        "Strongly agree",
+        "Somewhat agree",
+        "Neutral",
+        "Somewhat disagree",
+        "Strongly disagree",
+        "Unsure/not applicable"
+      ]
+    },
+    {
+      "question": "Are you satisfied with the current level of collaboration among teams?",
+      "options": [
+        "Somewhat satisfied: The collaboration is generally good, but there's room for improvement.",
+        "Not quite satisfied: The collaboration is average and doesn't meet our expectations.",
+        "Very satisfied: The collaboration is excellent, and we're meeting our goals effectively.",
+        "Not satisfied: The collaboration is poor, and we need to improve it urgently.",
+        "Needs improvement: The collaboration is inconsistent, and we're struggling to achieve our objectives."
+      ]
+    },
+    {
+      "question": "Do you believe the feedback process within the organization is effective?",
+      "options": [
+        "Strongly effective",
+        "Effective",
+        "Somewhat effective",
+        "Not very effective",
+        "Not effective at all",
+        "Depends on the situation",
+        "Neutral",
+        "Lacks clarity",
+        "Needs improvement",
+        "Not applicable"
+      ]
+    },
+    {
+      "question": "Do you feel your workload is manageable?",
+      "options": [
+        "Very Much So",
+        "Somewhat",
+        "Not Really",
+        "Not at All"
+      ]
+    },
+    {
+      "question": "Are the company's values clearly reflected in day-to-day operations?",
+      "options": [
+        "Yes, consistently and visibly",
+        "No, with room for improvement",
+        "Mostly, with areas of alignment and mismatch",
+        "Depends: values are reflected in some areas, but not others",
+        "Not clearly, and there is a lack of transparency",
+        "Yes, through various initiatives and strategies",
+        "Somewhat, with occasional reminders needed",
+        "No, and it seems they are just words on a wall"
+      ]
+    },
+    {
+      "question": "Is the current level of employee recognition satisfactory?",
+      "options": [
+        "Satisfactory",
+        "Room for Improvement",
+        "Exemplary",
+        "Needs Significant Enhancement"
+      ]
+    },
+    {
+      "question": "Are you satisfied with the opportunities for professional growth and development?",
+      "options": [
+        "Definitely Yes, I feel challenged and equipped to advance in my career.",
+        "Mostly Yes, I see opportunities for growth, but some aspects could be improved.",
+        "Neutral, I'm uncertain about the opportunities for growth and development.",
+        "Mostly No, I feel stagnant and lack the resources to advance in my career.",
+        "Definitely No, I'm not satisfied with the lack of opportunities for professional growth and development."
+      ]
+    },
+    {
+      "question": "Do you believe the organization promotes an inclusive work environment?",
+      "options": [
+        "Strongly agree: The organization actively promotes and prioritizes diversity, equity, and inclusion throughout all levels of the organization.",
+        "Somewhat agree: The organization demonstrates efforts to promote inclusion, but there may be areas for improvement.",
+        "Neither agree nor disagree: The organization is neutral or lacks clear initiatives for promoting an inclusive work environment.",
+        "Somewhat disagree: The organization's efforts to promote inclusion are limited or inconsistent.",
+        "Strongly disagree: The organization does not prioritize inclusivity and may actively work against it."
+      ]
+    },
+    {
+      "question": "Do you feel that you are fairly compensated for your role?",
+      "options": [
+        "Always, I believe my compensation is in line with my performance and role requirements",
+        "Mostly, I feel my compensation is fair, but there may be some room for adjustments",
+        "Somewhat, there are areas where I feel underpaid or overpaid, but overall it's a good balance",
+        "Rarely, I feel my compensation is not reflective of my work or industry standards",
+        "Never, I strongly believe I'm underpaid or overpaid, and it affects my job satisfaction"
+      ]
+    }
+  ]
+}
